@@ -17,12 +17,13 @@
 		<Item Name="OOQMH.lvlib" Type="Library" URL="../OOQMH/OOQMH.lvlib"/>
 		<Item Name="PID Loop.lvlib" Type="Library" URL="../PID Loop/PID Loop.lvlib"/>
 		<Item Name="Test.vi" Type="VI" URL="../OOQMH/Test.vi"/>
+		<Item Name="Test2.vi" Type="VI" URL="../Test2.vi"/>
+		<Item Name="Test3.vi" Type="VI" URL="../Test3.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="lvpidtkt.dll" Type="Document" URL="/&lt;vilib&gt;/Addons/control/pid/lvpidtkt.dll"/>
 				<Item Name="NI_PID__prctrl compat.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID__prctrl compat.lvlib"/>
 				<Item Name="NI_PID_pid.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/control/pid/NI_PID_pid.lvlib"/>
-				<Item Name="subTimeDelay.vi" Type="VI" URL="/&lt;vilib&gt;/express/express execution control/TimeDelayBlock.llb/subTimeDelay.vi"/>
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
