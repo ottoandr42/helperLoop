@@ -17,6 +17,7 @@
 		<Item Name="OOQMH.lvlib" Type="Library" URL="../OOQMH/OOQMH.lvlib"/>
 		<Item Name="PID Controller.lvlib" Type="Library" URL="../PID Controller/PID Controller.lvlib"/>
 		<Item Name="PID Loop.lvlib" Type="Library" URL="../PID Loop/PID Loop.lvlib"/>
+		<Item Name="Test Class.lvclass" Type="LVClass" URL="../Test Class/Test Class.lvclass"/>
 		<Item Name="Test.vi" Type="VI" URL="../OOQMH/Test.vi"/>
 		<Item Name="Test2.vi" Type="VI" URL="../Test2.vi"/>
 		<Item Name="Test3.vi" Type="VI" URL="../Test3.vi"/>
