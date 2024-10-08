@@ -8,6 +8,7 @@
 		<Item Name="PID.lvclass" Type="LVClass" URL="../PID/PID.lvclass"/>
 		<Item Name="Set Loop Period.lvclass" Type="LVClass" URL="../Set Loop Period/Set Loop Period.lvclass"/>
 		<Item Name="Set Output Range.lvclass" Type="LVClass" URL="../Set Output Range/Set Output Range.lvclass"/>
+		<Item Name="Set PID Gains.lvclass" Type="LVClass" URL="../Set PID Gains/Set PID Gains.lvclass"/>
 	</Item>
 	<Item Name="PID Loop.lvclass" Type="LVClass" URL="../PID Loop/PID Loop.lvclass"/>
 </Library>
