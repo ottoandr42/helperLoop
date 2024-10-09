@@ -5,6 +5,7 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Messages" Type="Folder">
+		<Item Name="Get Notifiers.lvclass" Type="LVClass" URL="../Get Notifiers/Get Notifiers.lvclass"/>
 		<Item Name="PID.lvclass" Type="LVClass" URL="../PID/PID.lvclass"/>
 		<Item Name="Set Loop Period.lvclass" Type="LVClass" URL="../Set Loop Period/Set Loop Period.lvclass"/>
 		<Item Name="Set Output Range.lvclass" Type="LVClass" URL="../Set Output Range/Set Output Range.lvclass"/>
