@@ -56,13 +56,13 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 	<Item Name="Set Loop Period.vi" Type="VI" URL="../Set Loop Period.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!N&amp;&amp;"*2#"$&lt;WZU=G^M&lt;'6S,GRW&lt;'FC&amp;F"*2#"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!%F"*2#"$&lt;WZU=G^M&lt;'6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!21!=!#WRP&lt;X!A='6S;7^E!%B!=!!?!!!N&amp;&amp;"*2#"$&lt;WZU=G^M&lt;'6S,GRW&lt;'FC&amp;F"*2#"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!%6"*2#"$&lt;WZU=G^M&lt;'6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!A!!!#3!!!!!!%!#1!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;A!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!%J!=!!?!!!N&amp;&amp;"*2#"$&lt;WZU=G^M&lt;'6S,GRW&lt;'FC&amp;F"*2#"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!%F"*2#"$&lt;WZU=G^M&lt;'6S)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!21!=!#WRP&lt;X!A='6S;7^E!%B!=!!?!!!N&amp;&amp;"*2#"$&lt;WZU=G^M&lt;'6S,GRW&lt;'FC&amp;F"*2#"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!%6"*2#"$&lt;WZU=G^M&lt;'6S)'FO!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"!!'!!1!"Q!)!A!!?!!!$1A!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!#1!!!!!!%!#1!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1082139136</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1082130944</Property>
 	</Item>
 	<Item Name="Stop Core.vi" Type="VI" URL="../Stop Core.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%*!!!!"1!%!!!!3E"Q!"Y!!#U55%F%)%.P&lt;H2S&lt;WRM:8)O&lt;(:M;7)75%F%)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=Q!35%F%)%.P&lt;H2S&lt;WRM:8)A&lt;X6U!!!81!-!%':J&lt;G&amp;M)'6S=G^S)'.P:'5!!%B!=!!?!!!N&amp;&amp;"*2#"$&lt;WZU=G^M&lt;'6S,GRW&lt;'FC&amp;F"*2#"$&lt;WZU=G^M&lt;'6S,GRW9WRB=X-!%6"*2#"$&lt;WZU=G^M&lt;'6S)'FO!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!Q!!?!!!!!!!!!!!!!!!!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"!!!!#3!!!!!!%!"!!!!!!</Property>
@@ -82,5 +82,15 @@
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 		<Property Name="NI.ClassItem.State" Type="Int">8396816</Property>
+	</Item>
+	<Item Name="Receive Message.vi" Type="VI" URL="../Receive Message.vi">
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">*!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;I!!!!#A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!F&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9AV"9X2P=CZM&gt;G.M98.T!!F"9X2P=C"P&gt;81!$U!$!!BQ=GFP=GFU?1!!3%"Q!"Y!!#U55%F%)%.P&lt;H2S&lt;WRM:8)O&lt;(:M;7)75%F%)%.P&lt;H2S&lt;WRM:8)O&lt;(:D&lt;'&amp;T=Q!25%F%)%.P&lt;H2S&lt;WRM:8)A;7Y!0%"Q!"Y!!#=617.U&lt;X)A2H*B&lt;76X&lt;X*L,GRW&lt;'FC$UVF=X.B:W5O&lt;(:D&lt;'&amp;T=Q!+476T=W&amp;H:3"J&lt;A!!6!$Q!!Q!!Q!%!!5!"!!%!!1!"A!%!!1!"!!(!!A$!!"Y!!!*!!!!!!!!!!U+!!!!!!!!!!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!EA!!!"!!!!!!!1!*!!!!!!</Property>
+		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+		<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1351098896</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
 	</Item>
 </LVClass>
